@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="220" height="220" role="img" aria-label="Pull Shark logo">
+  <defs>
+    <linearGradient id="ocean" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1f6feb"/>
+      <stop offset="100%" stop-color="#0a2540"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#ocean)"/>
+  <g fill="#ffffff">
+    <path d="M150 256 L64 176 L118 256 L64 336 Z"/>
+    <path d="M140 256 C 210 188, 360 184, 472 252 C 360 328, 210 324, 140 256 Z"/>
+    <path d="M250 206 L300 112 L334 210 Z"/>
+    <path d="M276 312 L250 392 L330 320 Z"/>
+  </g>
+  <g stroke="#0a2540" stroke-width="7" stroke-linecap="round" fill="none">
+    <path d="M372 232 q-7 24 0 48"/>
+    <path d="M388 230 q-7 26 0 52"/>
+    <path d="M404 232 q-7 24 0 48"/>
+  </g>
+  <circle cx="446" cy="242" r="9" fill="#0a2540"/>
+</svg>
