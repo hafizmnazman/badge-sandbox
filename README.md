@@ -2,7 +2,7 @@
 
 <img src="assets/shark.svg" width="160" height="160" alt="Pull Shark logo" />
 
-# 🦈 badge-sandbox
+# 🦈 gitbadge
 
 **A little pond for chasing GitHub profile achievements.**
 
@@ -10,8 +10,8 @@
 [![YOLO](https://img.shields.io/badge/YOLO-unlocked-8957e5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hafizmnazman?tab=achievements)
 [![Quickdraw](https://img.shields.io/badge/Quickdraw-unlocked-2da44e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hafizmnazman?tab=achievements)
 
-![Last commit](https://img.shields.io/github/last-commit/hafizmnazman/badge-sandbox?style=flat-square&color=1f6feb)
-![Repo size](https://img.shields.io/github/repo-size/hafizmnazman/badge-sandbox?style=flat-square&color=1f6feb)
+![Last commit](https://img.shields.io/github/last-commit/hafizmnazman/gitbadge?style=flat-square&color=1f6feb)
+![Repo size](https://img.shields.io/github/repo-size/hafizmnazman/gitbadge?style=flat-square&color=1f6feb)
 
 </div>
 
@@ -38,7 +38,7 @@ Exactly what it sounds like: a sandbox for unlocking and leveling up GitHub prof
 | x3 Silver | 128 |
 | x4 Gold | 1,024 |
 
-Currently sitting on **128 merged PRs**, so Silver is banked and just waiting on GitHub's recompute to display.
+Currently sitting on **228 merged PRs**, so Silver is banked (waiting on GitHub's recompute to display) and Gold is in progress.
 
 ## Notes
 
